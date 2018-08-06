@@ -2,7 +2,7 @@
 
 set -e 
 
-wget --output-document=/opt/idea.tar.gz -nc 'https://download-cf.jetbrains.com/idea/ideaIC-2017.2.5.tar.gz'
+wget --output-document=/opt/idea.tar.gz -nc 'https://download-cf.jetbrains.com/idea/ideaIC-2018.2.tar.gz'
 
 cd /opt/
 
